@@ -8,5 +8,5 @@ Description:
 URL: <homepage>
 Version: @VERSION@
 Requires: guile-2.0
-Libs: -L${libdir} -lunified-procedure
+Libs: -L${libdir} -lguile-unified-procedure
 Cflags: -I${includedir}
